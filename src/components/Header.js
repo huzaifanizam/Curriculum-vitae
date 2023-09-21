@@ -8,7 +8,7 @@ const Header = () => {
         id="sideNav"
       >
         <Link class="navbar-brand js-scroll-trigger" to="/">
-          <span class="d-block d-lg-none">Clarence Taylor</span>
+          <span class="d-block d-lg-none">Huzaifa Nizam</span>
           <span class="d-none d-lg-block">
             <img
               class="img-fluid img-profile rounded-circle mx-auto mb-2"
